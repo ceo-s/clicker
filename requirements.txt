@@ -1,0 +1,5 @@
+opencv-python
+PyAutoGUI
+keyboard
+playsound
+Pillow
